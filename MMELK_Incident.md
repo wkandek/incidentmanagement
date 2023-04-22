@@ -38,4 +38,4 @@ HPE provides a firmware update to prevent the error from occurring. We did not i
 
 *   Review SLO for MMELK server - ticket OPS-3219: done - 2022-12-05
 
-  *   MMLEK needs to be 99% available, about 7 hours of downtime/month possible. This SLO requires a warm standby architecture. OPS-3304 filed for implementation.
+  **   MMLEK needs to be 99% available, about 7 hours of downtime/month possible. This SLO requires a warm standby architecture. OPS-3304 filed for implementation.
