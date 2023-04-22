@@ -30,12 +30,12 @@ HPE provides a firmware update to prevent the error from occurring. We did not i
 
 *   Audit other SSD drives for firmware issue - ticket OPS-3214: done 2022-11-09
 
-  *   2 drives found and fixed before 32678 hours over
+    *   2 drives found and fixed before 32678 hours over
 
 *   Establish firmware update policy - ticket OPS-3216: done 2022-12-02
 
-  *   Firmware monitoring (disks, controllers, motherboard, dRAC/iLO, network cards) and installation falls to Infrastructure team and will be handled during normal quarterly patch window. A quarterly review for all devices is scheduled starting Q1 2023.
+    *   Firmware monitoring (disks, controllers, motherboard, dRAC/iLO, network cards) and installation falls to Infrastructure team and will be handled during normal quarterly patch window. A quarterly review for all devices is scheduled starting Q1 2023.
 
 *   Review SLO for MMELK server - ticket OPS-3219: done - 2022-12-05
 
-  **   MMLEK needs to be 99% available, about 7 hours of downtime/month possible. This SLO requires a warm standby architecture. OPS-3304 filed for implementation.
+    *   MMLEK needs to be 99% available, about 7 hours of downtime/month possible. This SLO requires a warm standby architecture. OPS-3304 filed for implementation.
